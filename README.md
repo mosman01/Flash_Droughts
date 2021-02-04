@@ -6,7 +6,7 @@
 ## SMVI
 SMVI (Soil Moisture Volatility Index) is a novel approach of quantifying and detecting flash droughts based on an idea inspired from the stock market runnnig averages.
 
-To read and plot and use the SMVI data, you can use the provided R script.
+To read and plot and use the SMVI data, you can use the provided [R script](SMVI_plot.R).
 
 
 ## Acknowledgement: 
