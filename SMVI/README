@@ -1,0 +1,7 @@
+SMVI datadescription:
+#####################
+
+fstdate1: Exact date of flash drought onset for the given gridpoint.
+lstdate1: Exact date of flash drought recovery for the given gridpoint
+FD_Max: Number of days for the given gridpoint (lstdate1 - fstdate1)
+SV1: Estimated flash drought severity for the given gridpoint.
